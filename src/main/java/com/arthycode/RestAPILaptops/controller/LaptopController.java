@@ -1,8 +1,8 @@
-package com.arthycode.RestAPILaptos.controller;
+package com.arthycode.RestAPILaptops.controller;
 
 
-import com.arthycode.RestAPILaptos.entity.Laptop;
-import com.arthycode.RestAPILaptos.repository.LaptopRepository;
+import com.arthycode.RestAPILaptops.entity.Laptop;
+import com.arthycode.RestAPILaptops.repository.LaptopRepository;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package com.arthycode.RestAPILaptos.entity;
+package com.arthycode.RestAPILaptops.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

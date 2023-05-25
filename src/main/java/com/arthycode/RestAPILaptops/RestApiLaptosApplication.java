@@ -1,7 +1,7 @@
-package com.arthycode.RestAPILaptos;
+package com.arthycode.RestAPILaptops;
 
-import com.arthycode.RestAPILaptos.entity.Laptop;
-import com.arthycode.RestAPILaptos.repository.LaptopRepository;
+import com.arthycode.RestAPILaptops.entity.Laptop;
+import com.arthycode.RestAPILaptops.repository.LaptopRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

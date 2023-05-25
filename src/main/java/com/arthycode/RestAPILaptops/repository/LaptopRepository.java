@@ -1,7 +1,7 @@
-package com.arthycode.RestAPILaptos.repository;
+package com.arthycode.RestAPILaptops.repository;
 
 
-import com.arthycode.RestAPILaptos.entity.Laptop;
+import com.arthycode.RestAPILaptops.entity.Laptop;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
